@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![google-scholar](https://img.shields.io/badge/google%20scholar-black?&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=6qnAUTMAAAAJ&hl=en)](https://scholar.google.com/citations?user=6qnAUTMAAAAJ&hl=en)
+[![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaketae/)](https://www.linkedin.com/in/jaketae/)
+[![twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/jaesung.tae)](https://twitter.com/jaesung.tae)
+[![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://jaketae.github.io)](https://jaketae.github.io)
+
+I'm passionate about generative modeling, text-to-speech, and NLP.
+
+Currently, I'm a junior at Yale studying CS and Math. Previously, I was a
+
+* Software Engineer Intern at [Facebook](https://about.meta.com)
+* Machine Learning Engineer Intern at [Hugging Face](https://huggingface.co)
+* Machine Learning Research Intern at [Neospaience](https://neosapience.com)
+
+[![gh-stats](https://github-readme-stats.vercel.app/api?username=jaketae&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/jaketae)
+
+
+
+
