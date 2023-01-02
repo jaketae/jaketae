@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jake.
 
 <!--
 **jaketae/jaketae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,3 @@ Currently, I'm a junior at Yale studying CS and Math. Previously, I was a
 * Machine Learning Research Intern at [Neospaience](https://neosapience.com)
 
 [![gh-stats](https://github-readme-stats.vercel.app/api?username=jaketae&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/jaketae)
-
-
-
-
