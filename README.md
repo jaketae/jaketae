@@ -28,4 +28,4 @@ Currently, I'm a junior at Yale studying CS and Math. Previously, I was a
 * Machine Learning Engineer Intern at [Hugging Face](https://huggingface.co)
 * Machine Learning Research Intern at [Neospaience](https://neosapience.com)
 
-[![gh-stats](https://github-readme-stats.vercel.app/api?username=jaketae&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/jaketae)
+<!-- [![gh-stats](https://github-readme-stats.vercel.app/api?username=jaketae&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/jaketae) -->
