@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 [![twitter](https://img.shields.io/badge/twitter-black?logo=twitter&logoColor=white&link=https://twitter.com/jaesung.tae)](https://twitter.com/jaesung.tae)
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://jaketae.github.io)](https://jaketae.github.io)
 
-I'm passionate about generative modeling, text-to-speech, and NLP.
+I'm passionate about generative modeling, text-to-speech, NLP, and recommendation systems.
 
-Currently, I'm a junior at Yale studying CS and Math. Previously, I was a
+Currently, I'm a rising senior at Yale studying CS and Math. Previously, I was a
 
-* Software Engineer Intern at [Facebook](https://about.meta.com)
+* Machine Learning & Software Engineer Intern at [Facebook](https://about.meta.com)
 * Machine Learning Engineer Intern at [Hugging Face](https://huggingface.co)
 * Machine Learning Research Intern at [Neospaience](https://neosapience.com)
 
