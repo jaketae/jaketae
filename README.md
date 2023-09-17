@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 I'm passionate about generative modeling, text-to-speech, NLP, and recommendation systems.
 
-Currently, I'm a rising senior at Yale studying CS and Math. Previously, I was a
+Currently, I'm a senior at Yale studying CS and Math. Previously, I was a
 
 * Machine Learning & Software Engineer Intern at [Facebook](https://about.meta.com)
 * Machine Learning Engineer Intern at [Hugging Face](https://huggingface.co)
-* Machine Learning Research Intern at [Neospaience](https://neosapience.com)
+* Machine Learning Research Intern at [Neosapience](https://neosapience.com)
 
 <!-- [![gh-stats](https://github-readme-stats.vercel.app/api?username=jaketae&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/jaketae) -->
