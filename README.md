@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm passionate about generative modeling, text-to-speech, NLP, and recommendation systems.
 
-I recently graduated from Yale University with a BSc in CS and Math. Previously, I was a
+I recently graduated from Yale University with a BSc in CS and Math. Currently, I am a Machine Learning Engineer at [Optiver](https://optiver.com/). Previously, I was a
 
 * Machine Learning & Software Engineer Intern at [Facebook](https://about.meta.com)
 * Machine Learning Engineer Intern at [Hugging Face](https://huggingface.co)
